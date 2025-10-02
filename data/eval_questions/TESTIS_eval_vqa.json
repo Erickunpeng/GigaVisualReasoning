@@ -1,0 +1,106 @@
+[
+  {
+    "ID": "30",
+    "Question": "Histologic Diagnosis of Tumor Submitted for TCGA",
+    "Choice": [
+      "Seminoma",
+      "Non-Seminoma - Choriocarcinoma",
+      "Non-Seminoma - Embryonal Carcinoma",
+      "Non-Seminoma - Yolk Sac Tumor",
+      "Non-Seminoma - Teratoma (Mature)",
+      "Non-Seminoma - Teratoma (Immature)"
+    ]
+  },
+  {
+    "ID": "27",
+    "Question": "Testis Tumor Macroextent",
+    "Choice": [
+      "Involves testis only",
+      "Epididymis",
+      "Spermatic cord",
+      "Tunica albuginea",
+      "Other",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "29",
+    "Question": "Testis Tumor Microextent",
+    "Choice": [
+      "Epididymis",
+      "Hilar fat",
+      "Rete testis",
+      "Scrotum",
+      "Spermatic cord",
+      "Tunica vaginalis"
+    ]
+  },
+  {
+    "ID": "31",
+    "Question": "Intratubular Germ-cell Neoplasm",
+    "Choice": [
+      "Present",
+      "Absent",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "32",
+    "Question": "Lymphovascular Invasion",
+    "Choice": [
+      "Present",
+      "Absent",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "21",
+    "Question": "Cause of Death",
+    "Choice": [
+      "Testicular Germ Cell Tumor (TGCT)",
+      "Other Malignancy (not TGCT related)",
+      "Other Non-Malignant Disease",
+      "Death not Caused by Disease",
+      "Unknown Cause of Death"
+    ]
+  },
+  {
+    "ID": "17",
+    "Question": "Tumor Status (at time of last contact or death)",
+    "Choice": [
+      "Tumor free",
+      "With tumor",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "56",
+    "Question": "Post-Orchiectomy Retroperitoneal Lymph Node Dissection",
+    "Choice": [
+      "Yes - prior to chemotherapy",
+      "Yes - after chemotherapy",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "57a",
+    "Question": "Measure of Success of Outcome at the Completion of Initial First Course Treatment",
+    "Choice": [
+      "No Measureable Tumor or Tumor Markers",
+      "Normalization of Tumor Markers, but Residual Tumor Mass",
+      "Elevated Tumor Markers and Residual Mass",
+      "Progressive Tumor Mass and Tumor Markers",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "59",
+    "Question": "New Tumor Event After Initial Treatment?",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  }
+]

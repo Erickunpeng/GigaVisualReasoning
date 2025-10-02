@@ -1,0 +1,538 @@
+Example 1:
+ICD-0-3
+Carcinoma. infiltrating ductal, NOS 8500/3
+Site : breast, NOS C50-9
+3/11/11 for
+page 1 / 1
+Department of Cancer Pathology
+copy No.
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Cost of diagnostic procedure
+Examination No.:
+Patient: XXX
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+Examination performed or.
+Results of immunohistochemical examination:
+No estrogen receptors found in the neoplastic cell nuclei. No progesterone
+receptors found in the neoplastic cell nuclei. HER2
+protein stained with HercepTest™M by DAKO. Negative reaction in invasive
+cancerous cells (Score = 1+)
+Compliance validated by:
+Examination performed or
+Macroscopic description:
+Right breast sized 26 x 19 x 5 cm removed along with axillary tissues sized 10 x
+8 x 2 cm and a skin flap of 27 x 11 cm. Tumour
+sized 2.1 x 2.2 x 0.8 cm on the border of the lower inner quadrants, placed 1.5
+cm from the lower edge, 0.1 cm from the base
+and 2.0 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 2: 15 mitoses/10 HPF - visual area of
+0.57 mm). Glandular tissue off the tumour
+showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis
+simplex (UDH).
+Axillary lymph nodes:
+Sinus histiocytosis lymphonodorum (No XI).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the
+right breast.
+(NHG3, pT2, pNO).
+Compliance validated b-
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+JUID:1560F753-083A-4934-9618-1E18CE46C845
+TCGA-D8-A1JL-O1A-PR
+Redacted
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Alalignancy Mistory
+Dul fynchronous) Prim in Neted
+Casel
+QUALIFIED /
+Bete Reviewed:
+3/11/11
+
+
+Example 2: 
+ICD-0-3
+UUID:8A853D7F-979F-4112-9659-1FDE84EF5102
+CGA-A7-AOCE-O01A-PR
+Redacted
+carcinoma, infiltrating duct NOS 8500/3
+Site : breast, NOS C50.9 tw 9/3/11
+SPECIMEN
+A.
+Left axillary sentinel node
+B.
+Left breast tissue
+CLINICAL NOTES
+PRE-OP DIAGNOSIS: Left breast cancer
+FROZEN SECTION DIAGNOSIS
+A) Lymph node, left axillary sentinel node, excision - One lymph
+node negative for metastatic carcinoma (0/1) .
+GROSS DESCRIPTION
+A. Received fresh for frozen section labeled "left
+axillary sentinel node" are irregularly-shape fragments
+of
+fibroadipose tissue that measure 2.5 x 2.2 x 1.2 cm. in dimension.
+Within the tissue a lymph node is identified that measures 1.6 cm.
+in maximum dimension. The lymph node is bisected and frozen as AFS1
+and AFS2.
+B. Received fresh in a container labeled "left breast
+tissue" is an 8 x 7 x 5 cm. portion of soft tan-yellow
+breast tissue partially covered with a 4.5 x 2 cm. tan-pink
+wrinkled
+skin ellipse. There are orienting sutures present. The specimen
+is
+inked as follows based upon the orienting sutures: superior -
+orange; anterior - blue; posterior - black; inferior - green. The
+specimen is sectioned from medial to lateral. On cut surface,
+there
+is a 2.8 x 2.8 x 2.5 cm. tan white-pink indurated mass, which is
+1.1
+cm. from the nearest margin, which is the inferior posterior
+margin.
+The specimen away the mass consists of yellow adipose tissue with
+scant interspersed tan tissue. RS-10.
+BLOCK SUMMARY: B1 - medial margin; B2 - lateral margin; B3,B4 -
+tumor to nearest margin (inferior/posterior) ; B5, 6 - tumor to
+posterior/deep margin; 7 - superior margin; 8 - skin to tumor; 9,10
+- specimen away from mass lesion.
+GROSS DESCRIPTION
+MICROSCOPIC DESCRIPTION
+A. Serial H&E stained sections and immunostains with
+antibodies to keratin (AE1-AE3) are examined, and the
+sentinel lymph node is negative for malignancy.
+B. The following template summarizes the findings in this
+part:
+Invasive Carcinoma: Present
+Histologic type : Invasive ductal carcinoma.
+Histologic grade:
+Overall grade: 3
+Architectural score:
+3
+Nuclear score: 3
+Mitotic score:
+3
+Greatest dimension (pT) : 2.8 cm. (pT2)
+Specimen margins: Negative
+Vessel invasion : Not definitively identified
+Calcification: There is necrosis within invasive carcinoma which
+has focal calcification.
+Ductal carcinoma in situ: Present focally
+Histologic pattern: Solid
+Nuclear grade : 3
+Central necrosis: Absent
+Extensive intraductal component : Absent
+Specimen margins: Negative
+MICROSCOPIC DESCRIPTION
+Description of non-tumorous breast: Changes compatible with
+reaction
+to prior biopsy. Fibrocystic changes.
+Prognostic markers: Previously performed (see
+4x2,14,15,20x2
+[A few of the antibodies used in our laboratory may be classified
+as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature. They have
+not been cleared or approved by the FDA. ]
+DIAGNOSIS
+A. Lymph node, left axially sentinel, excision -
+Negative for malignancy.
+B. Breast, left, biopsy -
+Invasive ductal carcinoma, margins negative for malignancy.
+(Electronic Signature)
+--- End Of Report ---
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Prindiv Tumor Site Liscrepancy
+1/4
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synciwonous Prim Noted
+Case is (circle):
+If
+Revewer
+initials X QUALIFIED Thate 9/3/11 Reviewed: /
+
+
+Example 3:
+ID:5D85E578-64B4-4238-922E-80288ED87800
+TCGA-XX-A89A-01A-PR
+Redacted
+ICD-0.3
+Carcinomo, infictirating lobular NOS
+CECE 852013
+Research Gross Description
+Site
+L Breast NOS
+C50.9
+Research Dx
+path
+Left breast (1945 g), mastectomy:
+4
+Beast, upper outer
+Invasive lobular carcinoma.
+7 regional lymph nodes, negative for malignancy (0/7)
+guadiant C50.4
+Tumor site: Upper outer quadrant ( 2-3:00)
+Tumor size: Between 7 and 9 cm
+gw1/12/13
+Histopathologic type: Invasive lobular carcinoma
+Histopathologic grade (Nottingham): 2
+Mitotic count: Low proliferative rate
+Pathologic tumor stage: pT3
+Margin status:
+Distance of carcinoma from margins:
+Superior: 0.8 cm
+Inferior: At least 1 cm
+Medial: Greater than 2 cm
+Lateral: Greater than 2 cm
+Anterior: 1 cm
+Posterior: Greater than 1 cm
+Associated in situ carcinoma:
+Type: Lobular carcinoma in situ (rare focus)
+Extensive (>25% of total tumor): No
+Separate (extra-tumoral) foci away from main lesion: Not identified
+Peritumoral angiolymphatic invasion: Not identified
+Dermal angiolymphatic invasion: Not identified
+Estrogen receptor: Positive (70 % of tumor cell nuclei staining moderately to
+strongly)
+Progesterone receptor: Positive (70 % of tumor cell nuclei staining moderately
+to strongly)
+HER-2/neu (ERBB2): Negative (score 0)
+Duration of fixation in 10% NBF: 12 hours 24 minutes
+Appropriate internal and external controls: Yes
+Standard assay conditions met? Yes
+Pathologic lymph node stage: pNO (including sentinel): No regional lymph node
+metastasis
+Number of nodes positive for metastasis/total number nodes sampled: 0/11
+Maximum diameter of largest lymph node metastasis: Not applicable
+Extranodal extension by tumor: Not applicable
+Distant metastasis: M-not applicable
+Additional pathologic findings: Fibrocystic change and usual ductal hyperplasia;
+seborrheic
+keratosis
+TNM descriptors (if applicable):
+AJCC Staging (7th Edition): pT3 pNO M-not applicable
+Research QC
+T1 Tumor:
+50% tumor nuclei
+0% necrosis
+50% normal
+Normal:
+100% fibroadipose
+1
+T2
+50% tumor nuclei
+0% necrosis
+50% normal fibrous tissue and fat. minimal normal breast
+T3
+70% tumor nuclei
+0% necrosis
+30% normal
+T4
+50% tumor nuclei
+0% necrosis
+50% normal fat, could prob be trimmed
+Research Specimen
+-
+Specimen Process Time
+Blood draw time
+Plasma frozen time:
+Serum frozen time
+Buffy coat frozen time:
+Cold ischemia start time:
+Formalin fixation start time:
+Total cold ischemia time:
+Formalin fixation stopped time
+Total formalin fixation time:
+Specimen Weight
+Cryovials x 8
+Normal X 4 - 1.) 335 mg 2.) 321 mg 3.) 408 mg 4.) 447 mg
+Tumor x 4 - 1.) 351 mg 2.) 357 mg 3.) 252 mg 4.) 322 mg
+Specimen Size
+Plasma x 3
+Serum x 2
+Buffy coat X 1
+Cryovials X 8
+Normal x 4
+Tumor X 4
+FFPE x 8
+Normal x 4
+Tumor x 4
+Study
+riteria
+he 10/24/13
+Yes
+No
+hag: JSIS
+rimary Tumor Site Ciccrepancy
+4
+Patient Consent
+IIPAA Discropancy
+rior Malignancy History
+Yes
+al/Synchronous P, Gmary Noted
+ase is
+eviewer Initials
+(circle): st QUALISIPO / DISQUALIFIED
+Cate Reviewed:
+2
+
+
+Example 4:
+KD C - 3
+infistrating duct Careina Nis
+850013
+Lw
+Site: breast, NOS
+11/22/10
+6.50.9
+page 1/1
+Department of Cancer Pathology
+copy No.
+Date:
+Examination: Histopathological examination
+Examination No.:
+Patier
+PESEL:
+Age:
+Gender: F
+Material: Partial organ resection - lesion from the left breast - lower outer
+quadrant
+Unit in charge
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination:
+Clinical diagnosis: Cancer of the right breast, typical quadrant marking
+Examination performed on:
+Macroscopic description:
+Part of the breast sized 8.8 x 8.3 x 2.4 cm with a skin flap of 5.8 x 2.3 cm,
+marked typically, with an X-ray
+image. Tumour cross section sized 1.7 x 1.5 x 2.3 cm. Margins: to the base 0.1
+cm; do the skin surface 0.6 cm;
+to the sternum 2.2 cm, to the axilla 3.6 cm, to the shoulder 2.3 cm, lower 4.3
+cm.
+Microscopic description:
+Carcinoma ductale invasivum: NHG3 (3+3+3: 18 mitoses /10 HPF - diam. 0.55mm),
+pT2. Solitary DCIS focuses
+found beneath the tumour (solid type with medium atypia, no necrosis) placed 0.5
+cm from the incision line.
+Histopathological diagnosis:
+Resectio partalis mammae dextrae:
+Carcinoma ductale invasivum et ductale in situ (NHG3, pT2).
+INVASIVE GUCTAL CARCINOMA AND IDUCTAL CARCINOMA UFTHE RIGHT BREART
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors in neoplastic cell nuclei not found.
+Progesterone receptors in neoplastic cell nuclei not found.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells ( Score = 0)
+Compliance validated by:
+JUID:380639A2-E89C-4495-8168-82120617129F
+TCGA-D8-A147-01A-PR
+Redacted
+riteria
+Yes
+tiagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IIPAA Discrepency
+rior Malignancy History
+Jual/Synchronous Pamagt Noted
+lasd
+QUALIFIED
+DISQUALIFIED
+
+
+Example 5:
+Criteria
+Yes
+No
+Jiagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IIPAA Discrepancy
+the
+for Mahgnancy His.cry
+Dual/Synchronnus
+Case is (circle) MGS QUALIFIEO
+DISQUALIFIED
+Reviewer inidals
+Date Reviewed: 15112
+w
+314
+DIAGNOSIS
+(A) LEFT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA OF THE BREAST, MODIFIED BLACK'S NUCLEAR GRADE 1 AND 2
+(LOW
+AND INTERMEDIATE GRADE), PRESENT AS THREE MASSES MEASURING 2.0 CM, 1.9CM AND 1.1
+CM IN
+MAXIMUM DIMENSION. (SEE COMMENT)
+PERINEURAL INVASION IS IDENTIFIED.
+INVASIVE TUMOR IS NOTED WITHIN 0.1 CM FROM THE MEDIAL MARGIN, 1 MM AND 2 MM FROM
+THE
+DEEP AND ANTERIOR MARGINS TOWARDS THE MEDIAL END OF THE SPECIMEN.
+LOBULAR CARCINOMA IN SITU (LCIS), MODIFIED BLACK'S NUCLEAR GRADE 1 AND 2 (LOW
+AND
+INTERMEDIATE GRADE), WIDELY DISPERSED.
+Reactive changes at previous biopsy site.
+Fibrocystic changes.
+METASTATIC ADENOCARCINOMA INVOLVING ONE OF ONE SENTINEL LYMPH NODE (1/1).
+MAXIMUM SIZE OF METASTASIS IS 0.3 CM.
+Extranodal extension is not identified.
+(B) PALPABLE LYMPH NODE, LEFT AXILLA:
+METASTATIC ADENOCARCINOMA IN ONE OF ONE LYMPH NODE (1/1).
+MAXIMUM SIZE OF METASTASIS IS 0.9 CM.
+EXTRANODAL EXTENSION IS PRESENT, MEASURING 0.1 CM IN MAXIMUM DIMENSION.
+(C) SECOND PALPABLE LYMPH NODE:
+One lymph node, no tumor present (0/1).
+(D) ADDITIONAL DEEP MARGIN:
+Fibroadipose tissue and skeletal muscle, no tumor present.
+(E) LEFT AXILLARY CONTENTS:
+METASTATIC ADENOCARCINOMA IN THREE OF THIRTY-ONE LYMPH NODES (3/31)
+MAXIMUM SIZE OF METASTASIS IS 0.4CM.
+EXTRANODAL EXTENSION IS PRESENT, MEASURING 0.5MM IN MAXIMUM DIMENSION
+(F)LEFT BREAST, NEW ANTERIOR MARGIN, EXCISION:
+No evidence of invasive carcinoma.
+LOBULAR CARCINOMA IN SITU (LCIS), IN FEW FOCI.
+Columnar alteration and ductal epithelial hyperplasia without atypia.
+(G) LEFT BREAST, NEW ANTERIOR MEDIAL MARGIN, EXCISION:
+No evidence of malignancy.
+ICD-0-3
+carcinoma, infiltrating lobular,NOS 852013
+COMMENT
+Site breast, NOS C50.9 5-23-12 ed
+The invasive lobular carcinoma demonstrates tubule formation in occasional small
+foci comprising much less than 1 % of the
+entire tumor. Few signet ring cells are noted in both the in situ and invasive
+tumor.
+GROSS DESCRIPTION
+(A) FOR IMMEDIATE INTRAOPERATIVE CONSULTATION AND X-RAY IMAGING LABELED LEFT
+SEGMENTAL
+MASTECTOMY, SHORT STITCH SUPERIOR, LONG STITCH LATERAL, PURPLE IS DEEP - A
+breast tissue with needle
+localization wires measuring 10.0 x 6.0 x 5.0 cm. Surgical margins are inked.
+The specimen is radiographed before and after
+slicing and the radiograph is reviewed by the radiologist. The specimen is
+sectioned from lateral to medial aspect into seven
+slices.
+Slice 3 contains an ill-defined, firm tan lesion #1 containing radiological
+clip. It measures 1.1 x 1.0 x 0.6 cm. It is more than
+1.0 cm from all the margins. Cut surface of slices 4 and 5 contains a second
+ill-defined indurated tan lesion with clip measuring
+2.0 x 1.2 x 1.1 cm. It is 0.4 cm from the closest anterior surgical margin. Cut
+surface of slice 5 and 6 shows an ill-defined lesion 3
+with
+clip
+measuring 1.9 x 1.6 x 1.3 cm. In slice 5, lesion 3 and 2 are grossly connected
+to each other. Lesion 3 is 0.5 cm away
+from the medial surgical margin, 0.2cm from deep margin and more than 1.0 cm
+from the rest of the margins. Located in fatty
+tissue
+at
+the
+inferior
+aspect
+of slices 1 and 2 are two possible lymph nodes ranging from 1.1 up to 1.3 cm in
+greatest dimension
+which are indicated by the surgeon to represent the sentinel lymph nodes. Lymph
+nodes identified in slice 1 is sent for protocol
+Representative sections are submitted. A portion of the tumor is given to tumor
+bank.
+INK CODE: Superior - blue; inferior - green; anterior - yellow; posterior -
+black; lateral and medial -red.
+SECTION CODE: A1, possible lymph submitted for protocol identified in slice 1;
+A2, A3, slice 3, lesion 1, mirror images;
+A4. slice 3. tissue superior to lesion 1 including superior surgical margin. AR
+slice a tissue
+posterior surgical margin; A7, slice 2, tissue laterally to lesion 1; A8, slice
+5, lesion 2 in relation to the anterior surgical margin; A9,
+slice 4, lesion 2; A10, slice 4, anterior surgical margin; A11, A12, slice 5,
+mirror images of lesions 2 and 3 in relation to each; A13,
+slice
+5,
+inferior
+surgical margin; A14, slice 5, superior surgical margin; A15, slice 5, posterior
+surgical margin; A16, slice 6,
+possible
+continuation of lesion 2 in relation to the anterior surgical margin; A17, A18,
+slice 6, mirror images of lesion 3 in relation to
+the
+deep
+surgical margin; A19, slice 6, tissue inferior to A16, including anterior
+surgical margin; A20, A21, lesion 3 in relation to
+the medial surgical margin; A22, slice 2, sectioned possible lymph node.
+(B) PALPABLE NODE, LEFT AXILLA FOR FS - A single possible lymph node measuring
+1.8 cm in its greatest dimension.
+Possible lymph node is sectioned and entirely submitted for frozen section in
+cassettes B1 and B2.
+(C
+SECOND PALPABLE LYMPH NODE - A single fatty possible lymph node measuring 2.5 cm
+in its greatest dimension.
+Possible lymph node is sectioned and entirely submitted for routine Histoloav.
+SECTION CODE: C1-C3, one sectioned possible lymph node.
+(D)
+ADDITIONAL
+DEEP MARGIN, INK ON TRUE MARGIN - A single fragment of a fatty tissue with ink
+indicating true measuring
+4.5 x 3.5 x 1.1 cm. Cut surface is fibrofatty. Entirely submitted.
+INK CODE: True surgical margin - blue.
+SECTION CODE: D1-D7, entire tissue.
+(E)
+LEFT
+AXILLARY CONTENTS - A single fragment of a fatty tissue measuring 8.0 x 7.0 X
+3.0 cm. Dissection reveals multiple
+possible lymph nodes ranging from 0.3 up to 1.8 cm in greatest dimension.
+Possible lymph nodes are entirely.
+SECTION CODE: E1, five possible lymph nodes; E2, five possible lymph nodes; E3,
+five possible lymph nodes; E4, five
+possible lymph nodes; E5, two possible lymph nodes; E6, one sectioned possible
+lymph node; E7, one sectioned possible lymph
+node; E8, one sectioned possible lymph node; E9, one sectioned possible lymph
+node; E10, one sectioned possible lymph node;
+E11,
+one
+sectioned
+possible lymph node; E12, one sectioned possible lymph node; E13, one sectioned
+possible lymph node; E14,
+one sectioned possible lymph node; E15, one sectioned possible lymph node; E16,
+one sectioned possible lymph node; E17, one
+sectioned possible lymph node; E18, one sectioned possible lymph node.
+(F) NEW ANTERIOR MARGIN, INK ON TRUE MARGIN - A single fragment of a fibrofatty
+tissue with ink indicating true margin
+measuring 3.6 x 3.2 x 1.8 cm. True surgical margin is reinked blue. Cut surface
+is fibrofatty. Entirely submitted.
+SECTION CODE: Entirely submitted in cassettes F1-F8.
+(G) NEW ANTERIOR MEDIAL MARGIN, INK ON TRUE MARGIN - H single fragment of a
+fibrofatty tissue with ink indicating true
+margin measuring 4.0 x 3.0 x 0.9 cm. The surgical margin is reinked blue.
+Sectioned and entirely submitted.
+INK CODE: True surgical margin - blue.
+SECTION CODE: G1-G6, entire tissue.
+CLINICAL HISTORY
+None given.
+SNOMED CODES
+T-04050, T-C4710, M-85203, M-85206, M-85202
+"Some tests reported here may have been developed and performance
+characteristics determined by I
+These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration."
+END OF REPORT-

@@ -1,0 +1,103 @@
+[
+  {
+    "ID": "32",
+    "Question": "Histologic Subtype",
+    "Choice": [
+      "Epithelioid mesothelioma",
+      "Sarcomatoid mesothelioma",
+      "Desmoplastic mesothelioma",
+      "Biphasic mesothelioma",
+      "Diffuse malignant mesothelioma, NOS"
+    ]
+  },
+  {
+    "ID": "30",
+    "Question": "Primary Site of Disease",
+    "Choice": [
+      "Pleura"
+    ]
+  },
+  {
+    "ID": "31",
+    "Question": "Laterality",
+    "Choice": [
+      "Left",
+      "Right",
+      "Bilateral"
+    ]
+  },
+  {
+    "ID": "11",
+    "Question": "Tumor Status (at time of last contact or death)",
+    "Choice": [
+      "Tumor free",
+      "With tumor",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "12",
+    "Question": "Vital Status (at date of last contact)",
+    "Choice": [
+      "Living",
+      "Deceased"
+    ]
+  },
+  {
+    "ID": "39",
+    "Question": "Residual Tumor",
+    "Choice": [
+      "RX",
+      "R0",
+      "R1",
+      "R2",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "35",
+    "Question": "Primary Tumor (T)",
+    "Choice": [
+      "TX",
+      "T0",
+      "T1",
+      "T1a",
+      "T1b",
+      "T2",
+      "T3",
+      "T4"
+    ]
+  },
+  {
+    "ID": "36",
+    "Question": "Regional Nodes (N)",
+    "Choice": [
+      "NX",
+      "N0",
+      "N1",
+      "N2",
+      "N3"
+    ]
+  },
+  {
+    "ID": "37",
+    "Question": "Distant Metastasis (M)",
+    "Choice": [
+      "MX",
+      "M0",
+      "M1"
+    ]
+  },
+  {
+    "ID": "38",
+    "Question": "Tumor Stage",
+    "Choice": [
+      "I",
+      "IA",
+      "IB",
+      "II",
+      "III",
+      "IV"
+    ]
+  }
+]

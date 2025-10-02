@@ -1,0 +1,99 @@
+[
+    {
+        "ID": "3",
+        "Question": "Diagnosis",
+        "Choice": [
+          "Lung Adenocarcinoma",
+          "Lung Squamous Cell Carcinoma"
+        ]
+    },
+    {
+      "ID": "20",
+      "Question": "Pathologic Spread: Primary Tumor (pT)",
+      "Choice": [
+        "TX",
+        "T0",
+        "T1",
+        "T1a",
+        "T1b",
+        "T2",
+        "T2a",
+        "T2b",
+        "T3",
+        "T4"
+      ]
+    },
+    {
+      "ID": "29",
+      "Question": "Tumor Status",
+      "Choice": [
+        "Tumor Free",
+        "With Tumor",
+        "Unknown Tumor Status"
+      ]
+    },
+    {
+      "ID": "39",
+      "Question": "EGFR Mutation Status Assessed",
+      "Choice": [
+        "Yes",
+        "No",
+        "Unknown"
+      ]
+    },
+    {
+      "ID": "24",
+      "Question": "Vital Status",
+      "Choice": [
+        "Living",
+        "Deceased"
+      ]
+    },
+    {
+      "ID": "21",
+      "Question": "Pathologic Spread: Lymph Nodes (pN)",
+      "Choice": [
+        "NX",
+        "N0",
+        "N1",
+        "N2",
+        "N3"
+      ]
+    },
+    {
+      "ID": "22",
+      "Question": "Pathologic Spread: Distant Metastases (M) (clinical and/orpathological)",
+      "Choice": [
+        "MX",
+        "M0",
+        "M1",
+        "M1a",
+        "M1b"
+      ]
+    },
+    {
+      "ID": "18",
+      "Question": "Residual Tumor",
+      "Choice": [
+        "RX",
+        "R0",
+        "R1",
+        "R2",
+        "Not Evaluated"
+      ]
+    },
+    {
+      "ID": "5",
+      "Question": "Anatomic Organ Sub-division",
+      "Choice": [
+        "Right Upper Lobe",
+        "Right Middle Lobe",
+        "Right Lower Lobe",
+        "Left Upper Lobe",
+        "Left Lower Lobe",
+        "Bronchus",
+        "Other"
+      ]
+    }
+  ]
+  

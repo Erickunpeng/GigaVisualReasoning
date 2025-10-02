@@ -1,0 +1,103 @@
+[
+  {
+    "ID": "38",
+    "Question": "Histological Subtype",
+    "Choice": [
+      "Cervical Squamous Cell Carcinoma",
+      "Endocervical type of Adenocarcinoma",
+      "Endocervical Adenocarcinoma of the Usual Type",
+      "Mucin-depleted Adenocarcinoma",
+      "Endometrioid Adenocarcinoma of Endocervix",
+      "Mucinous Adenocarcinoma of Endocervical Type",
+      "Adenosquamous Carcinoma"
+    ]
+  },
+  {
+    "ID": "39",
+    "Question": "Keratinization in Squamous Cell Carcinoma",
+    "Choice": [
+      "Keratinizing squamous cell carcinoma",
+      "Non-keratinizing squamous cell carcinoma"
+    ]
+  },
+  {
+    "ID": "40",
+    "Question": "Tumor Grade",
+    "Choice": [
+      "G1 Well Differentiated",
+      "G2 Moderately Differentiated",
+      "G3 Poorly Differentiated",
+      "G4 Undifferentiated",
+      "GX Grade cannot be assessed"
+    ]
+  },
+  {
+    "ID": "50",
+    "Question": "Pathologic Lymphovascular Invasion",
+    "Choice": [
+      "Present",
+      "Absent",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "51",
+    "Question": "Corpus Involvement",
+    "Choice": [
+      "Present",
+      "Absent",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "52",
+    "Question": "Were Lymph Nodes Examined at the Time of Primary Resection?",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "58",
+    "Question": "AJCC Cancer Staging Edition",
+    "Choice": [
+      "1st Edition (1978-1983)",
+      "2nd Edition (1984-1988)",
+      "3rd Edition (1989-1992)",
+      "4th Edition (1993-1997)",
+      "5th Edition (1998-2002)",
+      "6th Edition (2003-2009)",
+      "7th Edition (2010-present)"
+    ]
+  },
+  {
+    "ID": "59",
+    "Question": "Pathologic Spread: Primary Tumor (pT)",
+    "Choice": [
+      "TX", "T0", "Tis", "T1", "T1a", "T1a1", "T1a2",
+      "T1b", "T1b1", "T1b2", "T2", "T2a", "T2a1", "T2a2",
+      "T2b", "T3", "T3a", "T3b", "T4"
+    ]
+  },
+  {
+    "ID": "60",
+    "Question": "Pathologic Spread: Regional Nodes (pN)",
+    "Choice": [
+      "NX",
+      "N0",
+      "N1"
+    ]
+  },
+  {
+    "ID": "63",
+    "Question": "FIGO Stage",
+    "Choice": [
+      "Stage I", "Stage IA", "Stage IA1", "Stage IA2",
+      "Stage IB", "Stage IB1", "Stage IB2",
+      "Stage II", "Stage IIA", "Stage IIA1", "Stage IIA2", "Stage IIB",
+      "Stage III", "Stage IIIA", "Stage IIIB",
+      "Stage IV", "Stage IVA", "Stage IVB"
+    ]
+  }
+]

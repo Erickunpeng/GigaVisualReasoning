@@ -1,0 +1,73 @@
+[
+  {
+    "ID": "9",
+    "Question": "Tumor Status (at time of last contact or death)",
+    "Choice": ["Tumor free", "With tumor", "Unknown"]
+  },
+  {
+    "ID": "10",
+    "Question": "Vital Status (at date of last contact)",
+    "Choice": ["Living", "Deceased"]
+  },
+  {
+    "ID": "13",
+    "Question": "Adjuvant (Post-Operative) Radiation Therapy",
+    "Choice": ["Yes", "No", "Unknown"]
+  },
+  {
+    "ID": "14",
+    "Question": "Adjuvant (Post-Operative) Pharmaceutical Therapy",
+    "Choice": ["Yes", "No", "Unknown"]
+  },
+  {
+    "ID": "22",
+    "Question": "Clinical Status Within Three (3) Months of Surgery",
+    "Choice": [
+      "No Imaging Evidence of Disease",
+      "Persistent Locoregional Disease",
+      "Persistent Distant Metastatic Disease",
+      "Biochemical Evidence of  Disease"
+    ]
+  },
+  {
+    "ID": "23",
+    "Question": "Measure of Success of Outcome at the Completion of Initial First Course Treatment",
+    "Choice": [
+      "Progressive Disease",
+      "Stable Disease",
+      "Partial Response",
+      "Complete Response",
+      "Not Applicable (Treatment Ongoing)",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "25",
+    "Question": "Laterality",
+    "Choice": ["Right", "Left", "Bilateral"]
+  },
+  {
+    "ID": "26",
+    "Question": "Histological Subtype",
+    "Choice": [
+      "Adrenocortical Carcinoma – Usual Type",
+      "Adrenocortical Carcinoma – Oncocytic",
+      "Adrenocortical Carcinoma – Myxoid"
+    ]
+  },
+  {
+    "ID": "30",
+    "Question": "Were Lymph Nodes Examined at the Time of Primary Resection?",
+    "Choice": ["Yes", "No", "Unknown"]
+  },
+  {
+    "ID": "40",
+    "Question": "Residual Tumor",
+    "Choice": [
+      "RX (Presence of residual tumor cannot be assessed)",
+      "R0 (No residual tumor)",
+      "R1 (Microscopic residual tumor)",
+      "R2 (Macroscopic residual tumor)"
+    ]
+  }
+]

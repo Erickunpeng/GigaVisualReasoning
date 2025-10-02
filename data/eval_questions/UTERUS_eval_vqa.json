@@ -1,0 +1,100 @@
+[
+  {
+    "ID": "5",
+    "Question": "Body Mass Index (BMI)",
+    "Choice": [
+      "Underweight (<18.5)",
+      "Normal (18.5–24.9)",
+      "Overweight (25.0–29.9)",
+      "Obese (≥30)",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "12",
+    "Question": "Diabetes Mellitus",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "13",
+    "Question": "Smoking History",
+    "Choice": [
+      "Current smoker",
+      "Former smoker",
+      "Never smoked",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "14",
+    "Question": "History of Hormonal Contraceptive Use",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "26",
+    "Question": "Presence of Tumor Necrosis",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "28",
+    "Question": "Myometrial Invasion",
+    "Choice": [
+      "None",
+      "<50%",
+      "≥50%",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "29",
+    "Question": "Lymphovascular Space Invasion (LVSI)",
+    "Choice": [
+      "Present",
+      "Not Identified",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "31",
+    "Question": "Depth of Cervical Stromal Invasion",
+    "Choice": [
+      "None",
+      "<1/3",
+      "≥1/3",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "33",
+    "Question": "Anatomic Organ Subdivision",
+    "Choice": [
+      "Endometrium",
+      "Myometrium",
+      "Lower uterine segment/ Isthmus uteri",
+      "Fundus uteri",
+      "Unknown - Uterus, NOS"
+    ]
+  },
+  {
+    "ID": "39",
+    "Question": "Omental Involvement",
+    "Choice": [
+      "Positive",
+      "Negative",
+      "Not Performed"
+    ]
+  }
+]
+

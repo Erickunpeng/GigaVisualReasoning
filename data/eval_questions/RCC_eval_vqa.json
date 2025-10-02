@@ -1,0 +1,98 @@
+[
+  {
+      "ID": "2",
+      "Question": "Primary Site of Disease",
+      "Choice": [
+          "Kidney",
+          "Adrenal Gland",
+          "Other"
+      ]
+  },
+  {
+      "ID": "3",
+      "Question": "Histological Subtype",
+      "Choice": [
+          "Clear Cell Renal Cell Carcinoma",
+          "Papillary Renal Cell Carcinoma",
+          "Chromophobe Renal Cell Carcinoma",
+          "Other"
+      ]
+  },
+  {
+      "ID": "4",
+      "Question": "Tumor Grade",
+      "Choice": [
+          "G1 - Well Differentiated",
+          "G2 - Moderately Differentiated",
+          "G3 - Poorly Differentiated",
+          "G4 - Undifferentiated",
+          "GX - Grade Cannot be Assessed"
+      ]
+  },
+  {
+      "ID": "5",
+      "Question": "Tumor Laterality",
+      "Choice": [
+          "Right Kidney",
+          "Left Kidney",
+          "Bilateral"
+      ]
+  },
+  {
+      "ID": "14",
+      "Question": "History of Neoadjuvant Treatment for Tumor Specimen Submitted for TCGA",
+      "Choice": [
+          "No",
+          "Radiation Prior to Sample Procurement",
+          "Pharmaceutical Treatment Prior to Sample Procurement",
+          "Both Pharmaceutical and Radiation Treatment Prior to Sample Procurement"
+      ]
+  },
+  {
+      "ID": "17",
+      "Question": "Were Lymph Nodes Examined at the Time of Primary Resection?",
+      "Choice": [
+          "Yes",
+          "No"
+      ]
+  },
+  {
+      "ID": "21",
+      "Question": "Primary Tumor (T) Classification",
+      "Choice": [
+          "TX - Primary tumor cannot be assessed",
+          "T0 - No evidence of primary tumor",
+          "T1 - Tumor ≤7 cm in greatest dimension, limited to kidney",
+          "T2 - Tumor >7 cm in greatest dimension, limited to kidney",
+          "T3 - Tumor extends into major veins or perinephric tissues",
+          "T4 - Tumor invades beyond Gerota's fascia"
+      ]
+  },
+  {
+      "ID": "22",
+      "Question": "Regional Lymph Nodes (N) Classification",
+      "Choice": [
+          "NX - Regional lymph nodes cannot be assessed",
+          "N0 - No regional lymph node metastasis",
+          "N1 - Metastasis in regional lymph node(s)"
+      ]
+  },
+  {
+      "ID": "23",
+      "Question": "Distant Metastasis (M) Classification",
+      "Choice": [
+          "MX - Distant metastasis cannot be assessed",
+          "M0 - No distant metastasis",
+          "M1 - Distant metastasis present"
+      ]
+  },
+  {
+      "ID": "30",
+      "Question": "Tumor Status at Time of Last Contact or Death",
+      "Choice": [
+          "Tumor-free",
+          "With tumor",
+          "Unknown Tumor Status"
+      ]
+  }
+]

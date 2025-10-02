@@ -1,0 +1,96 @@
+[
+  {
+      "ID": "39",
+      "Question": "In which third of the esophagus is the tumor centered?",
+      "Choice": [
+          "Proximal",
+          "Mid",
+          "Distal"
+      ]
+  },
+  {
+      "ID": "41",
+      "Question": "Histological Type",
+      "Choice": [
+          "Esophagus Adenocarcinoma, NOS",
+          "Esophagus Squamous Cell Carcinoma"
+      ]
+  },
+  {
+      "ID": "42",
+      "Question": "Esophageal Columnar Metaplasia Present",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "43",
+      "Question": "Goblet Cells of Esophageal Columnar Mucosa Present (i.e. Possible Specialized Barrett’s Esophagus Mucosa)",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "44",
+      "Question": "Degree of Dysplasia within the Non-cancerous Esophageal Columnar Mucosa",
+      "Choice": [
+          "Negative/ no dysplasia",
+          "Indefinite for dysplasia",
+          "Low grade dysplasia",
+          "High grade dysplasia",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "45",
+      "Question": "Tumor Grade",
+      "Choice": [
+          "GX – Unknown",
+          "G1 – Well Differentiated",
+          "G2 – Moderately Differentiated",
+          "G3 – Poorly Differentiated",
+          "G4 – Undifferentiated"
+      ]
+  },
+  {
+      "ID": "46",
+      "Question": "Presence of Lymphovascular Invasion (LVI)",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "48",
+      "Question": "Perineural Invasion Present",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "50",
+      "Question": "Was Tumor Necrosis Observed?",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "51",
+      "Question": "Margin Status after First Surgical Procedure",
+      "Choice": [
+          "Positive (+)",
+          "Negative (-)",
+          "Close",
+          "Unknown"
+      ]
+  }
+]

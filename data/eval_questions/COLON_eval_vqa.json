@@ -1,0 +1,110 @@
+[
+    {
+        "ID": "3",
+        "Question": "Histological Subtype",
+        "Choice": [
+            "Colon Adenocarcinoma",
+            "Colon Mucinous Adenocarcinoma",
+            "Rectal Adenocarcinoma",
+            "Rectal Mucinous Adenocarcinoma"
+        ]
+    },
+    {
+        "ID": "4",
+        "Question": "Anatomic Organ Subdivision",
+        "Choice": [
+            "Cecum",
+            "Ascending Colon",
+            "Hepatic Flexure",
+            "Transverse Colon",
+            "Splenic Flexure",
+            "Descending Colon",
+            "Sigmoid Colon",
+            "Rectum",
+            "Rectosigmoid Junction"
+        ]
+    },
+    {
+        "ID": "20",
+        "Question": "Pathologic Spread: Primary Tumor (pT)",
+        "Choice": [
+            "TX",
+            "T0",
+            "Tis",
+            "T1",
+            "T2",
+            "T3",
+            "T4a",
+            "T4b"
+        ]
+    },
+    {
+        "ID": "21",
+        "Question": "Pathologic Spread: Lymph Nodes (pN)",
+        "Choice": [
+            "NX",
+            "N0",
+            "N1a",
+            "N1b",
+            "N1c",
+            "N2a",
+            "N2b"
+        ]
+    },
+    {
+        "ID": "22",
+        "Question": "Pathologic Spread: Distant Metastases (M)",
+        "Choice": [
+            "MX",
+            "M0",
+            "M1a",
+            "M1b"
+        ]
+    },
+    {
+        "ID": "24",
+        "Question": "Residual Tumor",
+        "Choice": [
+            "RX",
+            "R0",
+            "R1",
+            "R2"
+        ]
+    },
+    {
+        "ID": "25",
+        "Question": "Were Lymph Nodes Examined at the Time of Primary Presentation?",
+        "Choice": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "ID": "42",
+        "Question": "Is There Vascular Invasion?",
+        "Choice": [
+            "Yes",
+            "No",
+            "Unknown"
+        ]
+    },
+    {
+        "ID": "43",
+        "Question": "Lymphatic Invasion Present",
+        "Choice": [
+            "Yes",
+            "No",
+            "Unknown"
+        ]
+    },
+    {
+        "ID": "44",
+        "Question": "Perineural Invasion Present",
+        "Choice": [
+            "Yes",
+            "No",
+            "Unknown"
+        ]
+    }
+]
+

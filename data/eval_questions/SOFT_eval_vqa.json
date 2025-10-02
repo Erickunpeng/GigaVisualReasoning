@@ -1,0 +1,104 @@
+[
+  {
+    "ID": "15",
+    "Question": "Histological Type",
+    "Choice": [
+      "Dedifferentiated liposarcoma",
+      "Leiomyosarcoma (LMS)",
+      "Undifferentiated Pleomorphic Sarcoma (UPS), NOS",
+      "Pleomorphic 'MFH'/ Undifferentiated pleomorphic sarcoma",
+      "Giant cell 'MFH' / Undifferentiated pleomorphic sarcoma with giant cells",
+      "Inflammatory 'MFH' / Undifferentiated pleomorphic sarcoma with prominent inflammation",
+      "Malignant Peripheral Nerve Sheath Tumors (MPNST)",
+      "Desmoid Tumor",
+      "Myxofibrosarcoma",
+      "Synovial Sarcoma - Monophasic",
+      "Synovial Sarcoma - Biphasic",
+      "Synovial Sarcoma - Poorly differentiated"
+    ]
+  },
+  {
+    "ID": "16",
+    "Question": "Leiomyosarcoma: Histological Subtype",
+    "Choice": [
+      "Well-differentiated leiomyosarcoma (resembling leiomyoma)",
+      "Conventional leiomyosarcoma",
+      "Poorly differentiated/ pleomorphic/ epithelioid leiomyosarcoma"
+    ]
+  },
+  {
+    "ID": "17",
+    "Question": "Leiomyosarcoma: Uterine Involvement",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "26",
+    "Question": "Tumor Depth",
+    "Choice": [
+      "Superficial",
+      "Deep",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "30",
+    "Question": "Margin Status",
+    "Choice": [
+      "Positive (+) ≤ 1mm",
+      "Negative (-)",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "31",
+    "Question": "Residual Tumor",
+    "Choice": [
+      "RX",
+      "R0",
+      "R1",
+      "R2"
+    ]
+  },
+  {
+    "ID": "32",
+    "Question": "Necrosis of Total Tumor",
+    "Choice": [
+      "0% (no necrosis or no mention of necrosis)",
+      "<10% (“focal necrosis”)",
+      "Moderate Necrosis (≥10, <50%)",
+      "Extensive Necrosis (>50%)",
+      "Complete or if listed (>99% or profound therapy effect)"
+    ]
+  },
+  {
+    "ID": "35",
+    "Question": "Is Disease Multifocal?",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "41",
+    "Question": "Locoregional Recurrence",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "42",
+    "Question": "Metastasis (Radiologic Evidence)",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  }
+]

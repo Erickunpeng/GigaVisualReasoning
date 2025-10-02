@@ -1,0 +1,107 @@
+[
+  {
+      "ID": "28",
+      "Question": "Histologic Subtype",
+      "Choice": [
+          "Infiltrating Ductal Carcinoma",
+          "Infiltrating Lobular Carcinoma",
+          "Infiltrating Carcinoma, NOS",
+          "Mucinous Carcinoma",
+          "Medullary Carcinoma",
+          "Metaplastic Carcinoma",
+          "Mixed Histology",
+          "Other"
+      ]
+  },
+  {
+      "ID": "29",
+      "Question": "Histologic Grade",
+      "Choice": [
+          "Grade I (Well Differentiated)",
+          "Grade II (Moderately Differentiated)",
+          "Grade III (Poorly Differentiated)",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "38",
+      "Question": "Margin Status after First Surgical Procedure",
+      "Choice": [
+          "Positive (+)",
+          "Negative (-)",
+          "Close",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "42",
+      "Question": "Multifocality",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "45",
+      "Question": "Lymph Nodes Examined at the Time of Primary Resection",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "48",
+      "Question": "Lymph Nodes Positive at the Time of Primary Resection",
+      "Choice": [
+          "Yes",
+          "No",
+          "Unknown"
+      ]
+  },
+  {
+      "ID": "56",
+      "Question": "ER Status by IHC",
+      "Choice": [
+          "Positive (1%-100%)",
+          "Negative (0%)",
+          "Indeterminate",
+          "Performed but Not Available",
+          "Not Performed"
+      ]
+  },
+  {
+      "ID": "62",
+      "Question": "PR Status by IHC",
+      "Choice": [
+          "Positive (1%-100%)",
+          "Negative (0%)",
+          "Indeterminate",
+          "Performed but Not Available",
+          "Not Performed"
+      ]
+  },
+  {
+      "ID": "68",
+      "Question": "HER2/ERBB2 Status by IHC",
+      "Choice": [
+          "Positive",
+          "Negative",
+          "Equivocal",
+          "Indeterminate",
+          "Performed but Not Available",
+          "Not Performed"
+      ]
+  },
+  {
+      "ID": "74",
+      "Question": "Androgen Receptor (AR) Status",
+      "Choice": [
+          "Positive",
+          "Negative",
+          "Unknown",
+          "Not Performed"
+      ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+    {
+      "ID": "1 (GBM) / 1 (LGG)",
+      "Question": "Has this TSS received permission from the NCI to provide time intervals as a substitute for requested dates on this form?",
+      "Choice": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "ID": "5 (GBM) / 8 (LGG)",
+      "Question": "Is this a Prospective Tissue Collection?",
+      "Choice": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "ID": "6 (GBM) / 9 (LGG)",
+      "Question": "Is this a Retrospective Tissue Collection?",
+      "Choice": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "ID": "14 (GBM) / 17 (LGG)",
+      "Question": "Has the Patient Had Any Prior Cancer Diagnosed?*",
+      "Choice": [
+        "No",
+        "History of Prior Malignancy",
+        "History of Synchronous / Bilateral Malignancy"
+      ]
+    },
+    {
+      "ID": "15 (GBM) / 18 (LGG)",
+      "Question": "History of Neo-Adjuvant Treatment to Tumor Specimen Submitted for TCGA*",
+      "Choice": [
+        "No",
+        "Radiation Prior to Sample Procurement",
+        "Pharmaceutical Treatment Prior to Sample Procurement",
+        "Both Pharmaceutical and Radiation Treatment Prior to Sample Procurement"
+      ]
+    },
+    {
+      "ID": "31 (GBM) / 61 (LGG)",
+      "Question": "Performance Status Score: Karnofsky Score",
+      "Choice": [
+        "100   Normal, no complaints; no evidence of  disease",
+        "90   Able to carry on normal activity; minor signs or symptoms of disease",
+        "80   Normal activity with effort; some signs or symptoms of disease",
+        "70   Cares for self; unable to carry on normal activity or to do active work",
+        "60   Requires occasional assistance; but is able to care for most of his/her needs",
+        "50   Requires considerable assistance and frequent medical care",
+        "40   Disabled; requires special care",
+        "30   Severely disabled",
+        "20   Very sick; requiring hospitalization",
+        "10   Moribund; fatal processes progressing rapidly",
+        "0   Dead",
+        "Not Evaluated",
+        "Unknown"
+      ]
+    },
+    {
+      "ID": "32 (GBM) / 62 (LGG)",
+      "Question": "Performance Status Score: Eastern Cooperative Oncology Group",
+      "Choice": [
+        "0   Asymptomatic",
+        "1   Symptomatic, but fully ambulatory",
+        "2   Symptomatic, in bed less than 50% of day",
+        "3   Symptomatic, in bed more than 50% of day, but not bed-ridden",
+        "4   Bed-ridden",
+        "Not Evaluated",
+        "Unknown"
+      ]
+    },
+    {
+      "ID": "39 (GBM) / 70 (LGG)",
+      "Question": "Measure of Success of Outcome at the Completion of Initial First Course Treatment (surgery and adjuvant therapies)",
+      "Choice": [
+        "Progressive Disease",
+        "Stable Disease",
+        "Partial Response",
+        "Complete Response",
+        "Not Applicable",
+        "Unknown"
+      ]
+    }
+  ]
+  

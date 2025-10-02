@@ -1,0 +1,115 @@
+[
+  {
+    "ID": "28",
+    "Question": "Histologic Subtype",
+    "Choice": [
+      "Intrahepatic cholangiocarcinoma",
+      "Perihilar cholangiocarcinoma",
+      "Distal cholangiocarcinoma"
+    ]
+  },
+  {
+    "ID": "33",
+    "Question": "Tumor Grade (Select the Least Differentiated Grade Observed)",
+    "Choice": [
+      "G1 Well differentiated",
+      "G2 Moderately differentiated",
+      "G3 Poorly differentiated",
+      "G4 Undifferentiated"
+    ]
+  },
+  {
+    "ID": "34",
+    "Question": "Residual Tumor",
+    "Choice": [
+      "RX",
+      "R0",
+      "R1",
+      "R2"
+    ]
+  },
+  {
+    "ID": "36",
+    "Question": "Pathologic T Stage",
+    "Choice": [
+      "TX",
+      "T0",
+      "T1",
+      "T2",
+      "T2a",
+      "T2b",
+      "T3",
+      "T3a",
+      "T3b",
+      "T4"
+    ]
+  },
+  {
+    "ID": "37",
+    "Question": "Pathologic N Stage",
+    "Choice": [
+      "NX",
+      "N0",
+      "N1",
+      "N1a",
+      "N1b",
+      "N2"
+    ]
+  },
+  {
+    "ID": "38",
+    "Question": "Pathologic M Stage",
+    "Choice": [
+      "MX",
+      "M0",
+      "M1"
+    ]
+  },
+  {
+    "ID": "39",
+    "Question": "Tumor Stage (Pathological and/or Clinical)",
+    "Choice": [
+      "Stage I",
+      "Stage IA",
+      "Stage IB",
+      "Stage II",
+      "Stage IIA",
+      "Stage IIB",
+      "Stage III",
+      "Stage IIIA",
+      "Stage IIIB",
+      "Stage IIIC",
+      "Stage IV",
+      "Stage IVA",
+      "Stage IVB"
+    ]
+  },
+  {
+    "ID": "40",
+    "Question": "Is there vascular Invasion?",
+    "Choice": [
+      "Macro",
+      "Micro",
+      "None",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "41",
+    "Question": "Is there perineural invasion?",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  },
+  {
+    "ID": "24",
+    "Question": "Adjuvant (Post-Operative) Radiation Therapy",
+    "Choice": [
+      "Yes",
+      "No",
+      "Unknown"
+    ]
+  }
+]
